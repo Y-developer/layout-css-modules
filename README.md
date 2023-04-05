@@ -1,3 +1,3 @@
 <p align="center">
-    <img alt="elementid-logo" src="./logo/logos_layout-css-modules.jpg"/>
+    <img alt="elementid-logo" src="./logo/layout-css-modules-logo.svg"/>
 </p>
