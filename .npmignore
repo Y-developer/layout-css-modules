@@ -2,7 +2,9 @@
 *
 
 # include these:
-!/dist/**/*
+!index.module.css
+!index.js
+!index.module.css.d.ts
 !LICENSE
 !README.md
 
